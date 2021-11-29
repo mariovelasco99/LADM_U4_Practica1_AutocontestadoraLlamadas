@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168208993479",
+    "project_id": "unidad4-c6f88",
+    "storage_bucket": "unidad4-c6f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168208993479:android:adfa0806520f3c74ff02e2",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.jmvo.ladm_u4_practica1_autocontestadorallamadas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168208993479-4i72sg2vdbe7vhq49f1hqftlt8lch1ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO-_dkavCcpAVKwGVOkpGHlsu5j64Nz_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168208993479-4i72sg2vdbe7vhq49f1hqftlt8lch1ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
